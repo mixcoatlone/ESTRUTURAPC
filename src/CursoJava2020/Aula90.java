@@ -9,6 +9,7 @@ public class Aula90 {
 		
 		for (int i = 0; i < vector.length; i++) {
 			System.out.println(vector[i]);
+			System.out.println();
 		}
 		
 		System.out.println();
